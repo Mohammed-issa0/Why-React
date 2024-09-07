@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Why-React/static/css/main.ddfe302c.css",
+    "main.js": "/Why-React/static/js/main.9c44fb6d.js",
+    "index.html": "/Why-React/index.html",
+    "main.ddfe302c.css.map": "/Why-React/static/css/main.ddfe302c.css.map",
+    "main.9c44fb6d.js.map": "/Why-React/static/js/main.9c44fb6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddfe302c.css",
+    "static/js/main.9c44fb6d.js"
+  ]
+}
